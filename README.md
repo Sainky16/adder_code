@@ -1,2 +1,2 @@
-# adder_code-
+# verilog-
 first time using git for the verilog coding
